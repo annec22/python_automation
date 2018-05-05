@@ -1,2 +1,2 @@
 # python_automation
-automation on anything using python
+Applying automation using python
